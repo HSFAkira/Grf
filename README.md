@@ -9,3 +9,4 @@ Gráficos de foros para mí (https://github.com/HSFAkira/Grf)
 —— Carta (FullArt) — https://hsfakira.github.io/Grf/EC/NOMBRE/Carta_FullArt.png<br>
 —— Icono Pareja — https://hsfakira.github.io/Grf/EC/NOMBRE/Icono_Pareja.png<br>
 —— Icono Posts — https://hsfakira.github.io/Grf/EC/NOMBRE/Icono_Posts.png<br>
+—— Ficha — https://hsfakira.github.io/Grf/EC/NOMBRE/Ficha.png<br>
